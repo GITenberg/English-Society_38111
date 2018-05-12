@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4661
     wikipedia: http://en.wikipedia.org/wiki/George_du_Maurier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38111#English-Society
 gutenberg_issued: '2011-11-23'
 gutenberg_type: Text
 identifiers:
