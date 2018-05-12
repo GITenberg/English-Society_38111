@@ -1,0 +1,32 @@
+_repo: English-Society_38111
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38111-h/images/i_back_cover.jpg
+creator:
+  author:
+    agent_name: Du Maurier, George
+    aliases:
+    - Du Maurier, George Louis Palmella Busson
+    - Maurier, George Du
+    birthdate: 1834
+    deathdate: 1896
+    gutenberg_agent_id: '4661'
+    url: http://www.gutenberg.org/2009/agents/4661
+    wikipedia: http://en.wikipedia.org/wiki/George_du_Maurier
+description: ''
+gutenberg_issued: '2011-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38111'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- Illustrations'
+- !lcsh 'English wit and humor, Pictorial'
+- !lcsh 'England -- Social life and customs -- Pictorial works'
+- !lcc 'NC'
+title: English Society
+url: http://www.gutenberg.org/ebooks/38111
